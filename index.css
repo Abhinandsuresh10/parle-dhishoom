@@ -1,0 +1,789 @@
+* {
+    margin: 0%;
+  
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    overflow-x: hidden;
+}
+.navbar-nav {
+    position: absolute;
+    right: 0%;
+    position: fixed;
+   
+}
+
+.navbar{
+    height: 70px;
+    position: fixed;
+    z-index: 1;
+}
+
+ #asd{
+    background-color: rgb(4, 4, 46);
+    
+ }
+ 
+ 
+ .img1{
+    width: 100%;
+}
+.first{
+    margin-left: 35vh;
+    margin-top: 10vh;
+    width: 30vh;
+}
+#let{
+   text-align: center;
+   font-size: 15vh;
+   font-weight: 800;
+   font-family: "EksellDisplayWeb-Small";
+   margin-top: 40%;
+   margin-left: 3%;
+   margin-right: 13%;
+   color: aliceblue;
+  
+}
+
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "merivaregular";
+    color: rgb(243, 115, 24);
+    font-size: 24px;
+}
+
+.sec1{
+    margin: 0% 0.5% 0% -2%;
+    
+}
+.sec2{
+    margin: 0% 0% 0% -1.8%;
+}
+.ver{
+    line-height: 15px;
+}
+.end{
+   font-size: 15px;
+   text-decoration: none;
+   color: black;
+   font-weight: 600;
+}
+.last{
+    font-size: 15px;
+    font-family:"merivaregular";
+}
+.bb{
+    padding-left:5% ;
+    
+}
+.cir{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20%;
+
+}
+.end:hover{
+    color: brown;
+}
+.new1, .new2, .new3{
+    padding-top: 5%;
+}
+#me1:hover{
+    color: brown;
+}
+
+
+#small{
+    height: 112.2vh;
+    position: relative;
+    z-index: -2;
+}
+#first1{
+    position: absolute;
+    left:5%;
+    top:5%;
+    z-index: -1;
+}
+ @media screen and (max-width:991px){
+    #asd{
+        width: 100%;
+    }
+    #small{
+        width: 100%;
+        height: 110vh;
+        padding-left: 15vw;
+       
+    }
+    #first1{
+        width: 15vw;
+        top: 5%;
+        left: 10%;
+        
+    }
+    
+    #f{
+        width: 100%;
+    }
+}
+    
+ 
+ @media screen and (max-width:768px){
+    #f1{
+        height: 250px;
+    }
+    #f2{
+        height: 250px;
+    }
+    #let{
+        font-size: 10vh;
+    }
+    
+ 
+ }
+ @media screen and (max-width:400px){
+   #first1{
+    left:-38%;
+    top: 15%;
+    width: 30vw;
+    
+
+   }
+    
+ 
+ }
+ 
+    
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
